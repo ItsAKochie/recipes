@@ -1,0 +1,39 @@
+## PRODUCE
+|                   |                         |              |              |             |
+| ----------------- | ----------------------- | ------------ | ------------ | ----------- |
+| apples            | avocado                 | bag salad    | bananas      | blueberries |
+| broccoli          | cabbage                 | cantaloupe   | carrots      | celery      |
+| cucumber          | strawberries            | red pepper   | grapes       | jalapeño    |
+| lettuce           | lemons/limes            | tofu         | onion        | pineapple   |
+| Yukon gold potato | sweet potato            |              |              |             |
+## PANTRY
+|                 |                 |                      |                 |                       |
+| --------------- | --------------- | -------------------- | --------------- | --------------------- |
+| AP flour        | apple sauce     | avocado oil          | baking powder   | baking soda           |
+| banana chips    | black beans     | bread flour          | brown sugar     | canned corn           |
+| vinegar         | chia seeds      | chicken stock        | chocolate chips | cinnamon toast crunch |
+| corn meal       | fried onions    | goldfish             | graham crackers | granola bars          |
+| honey           | instant oatmeal | jam                  | ketchup         | kettle chips          |
+| mayo            | mini muffins    | muffin mix           | mustard         | oatmeal               |
+| olive oil       | pancake mix     | pasta                | peanut butter   | peanuts               |
+| raisins         | salt            | San Marzano tomatoes | sriracha        | soy sauce             |
+| syrup           | tortilla chips  | vanilla extract      | rice            | whole wheat flour     |
+## BAKERY
+|        |           |                 |                   |              |
+| ------ | --------- | --------------- | ----------------- | ------------ |
+| bagels | dessert   | english muffins | hawaiian rolls    | hot dog buns |
+|        | tortillas | wheat bread     | whole grain bread |              |
+## DRINKS
+|                |        |                |              |
+| -------------- | ------ | -------------- | ------------ |
+| cherry LaCroix | coffee | diet Dr Pepper | lime LaCroix | 
+## DAIRY
+|                  |              |                   |                 |              |
+| ---------------- | ------------ | ----------------- | --------------- | ------------ |
+| butter           | colby cheese | cottage cheese    | eggs            | greek yogurt |
+| kids yogurt      | milk         | mozzarella cheese | parmesan cheese | ranch        |
+| soy milk         |              |                   |                 |              |
+## FROZEN
+|             |                 |              |                   |              |
+| ----------- | --------------- | ------------ | ----------------- | ------------ |
+| blueberries | chicken nuggets |  waffles     | frozen vegetables | strawberries |
