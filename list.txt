@@ -18,6 +18,7 @@
 | olive oil       | pancake mix     | pasta                | peanut butter   | peanuts               |
 | raisins         | salt            | San Marzano tomatoes | sriracha        | soy sauce             |
 | syrup           | tortilla chips  | vanilla extract      | rice            | whole wheat flour     |
+| coconut flakes  |
 ## BAKERY
 |        |           |                 |                   |              |
 | ------ | --------- | --------------- | ----------------- | ------------ |
